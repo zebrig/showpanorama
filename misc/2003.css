@@ -1,0 +1,11 @@
+.right {FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; padding-left:16px; padding-right:16px;}
+.director {FONT-SIZE: 64%; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;}
+.bodytext {FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Arial, Helvetica, sans-serif; line-height:1.4; TEXT-DECORATION: none;}
+.title {FONT-SIZE: 150%; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;}
+.sh {font-family:Arial, "Arial Cyr",Helvetica, Sans-Serif; color:#FFFFFF; font-size:44px; padding-top:6px; padding-bottom:6px;}
+.sh a {text-decoration:none; color:#FFFFFF;}
+.ver11w { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF;}
+.ver11b { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#000000;}
+.rightlink, .rightlink a:link, .rightlink a:active, .rightlink a:visited { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; text-decoration:underline;}
+.rightlink a:hover { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#000000; text-decoration:underline;}
+.form {width:100%; padding:16px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#000000;}

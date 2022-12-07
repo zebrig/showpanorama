@@ -1,0 +1,42 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>The Showpanorama Seasons</title>
+	<style>
+	.monde {padding-top:1em; font:77% Arial; line-height:1.2em; color:#000000; padding-bottom:1em;}
+	.monde a {color:#000000; text-decoration:none;}
+	.monde a:hover {color:#000000; text-decoration:none; border-bottom: 2px solid #FF6600; padding-bottom:1em;}
+	.curr {border-bottom: 2px solid #000000; font-size:200%;}
+	.izobrazhenie {margin-top:1em; text-align:left:}
+	.annotation {font: 75% Arial; color:#333333; line-height:1.5em; text-align:left;}
+	.annotation a {color:#CCCC33;}
+	.disab {font: 75% Arial; color:#000000; padding:1em 1em; background-color:#EFEFEF; line-height:1.5em; text-align:left;}
+	</style>
+</head>
+
+<body bgcolor=#FFFFFF>
+
+
+<div style="margin-left:50px;">
+<a href="/seasons/"><img src="/images/seasons.gif" width="319" height="53" alt="" border="0"></a><br>
+<table style="background-color:#FFFFFF; height:0px; width:75%; border-top:4px solid #CCCC33; margin-bottom:2em; margin-top:0.5em;">
+<tr>
+<td width="0%"><div class="monde">9<br><a href="/seasons/1067871236.html?version=textonly">сентябрь</a></div></td>
+<td width="50%">&nbsp;</td>
+<td width="0%" class="curr"><div class="monde">10<br>&#1086;&#1082;&#1090;&#1103;&#1073;&#1088;&#1100;</div></td>
+<td width="50%">&nbsp;</td>
+<td width="0%"><div class="monde">11<br><a href="/seasons/1067871250.html?version=textonly">&#1085;&#1086;&#1103;&#1073;&#1088;&#1100;</a></div></td>
+</tr>
+</table>
+<div style="width:75%; text-align:center;">
+<div class="disab">Прекрасный октябрьский денёк! Словно в лесу ≈ пожар. Полыхают осины, дубы, ели.&nbsp;&nbsp;<a href="/seasons/1067871250.html?version=textonly"><font size="+1">&rarr;</font></a></div><br><br><br><br><div style="text-align:center"><a href="/seasons/1067871242.html" style="color:#FF0000;"><font size="+1">full-graphics version</font></a></div></div></div>
+</div><br><br><br>
+<table style="background-color:#FFFFFF; height:0px; width:75%; border-top:4px solid #003366; margin-bottom:2em; margin-top:0.5em;"><tr><td width="50%">&nbsp;</td><td width="50%" class="annotation" style="padding-top:1.6em; color:#999999;">showpanorama.com: VREMENA GODA<br>
+Copyright ╘ 2003. <a href="/prose/">Click here</a> for no Terms of use and never a Privacy Policy applicable to this site. <br><a href="/">Click here</a> for no more employment opportunities with showpanorama.com<br><br>
+<a href="/poetry/" style="color:#666666;">стихотворения</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/prose/" style="color:#666666;">проза</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/large/" style="color:#666666;">произведения крупной формы</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/ourhaha/" style="color:#666666;">our happy hardcore</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/special/" style="color:#666666;">special features</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/seasons/" style="color:#666666;">времена года</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/film/" style="color:#666666;">film</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/misc/gic/" style="color:#666666;" target="_new">гигантское мороженое</a></div>
+<br><br></td></tr></td></table>
+</div>
+</body>
+</html>

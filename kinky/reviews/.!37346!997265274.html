@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>AI aka Artificial Intelligence (2001): Showpanorama Review</title>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+
+<!-- Begin
+var l1 =   0; // left of ticker in pixel, or 0 to position relative
+var t1 =   0; // top of ticker in pixel, or 0 to position relative
+var w1 = 320; // width of ticker in pixel
+var ie = document.all ? true : false;
+var first = true;
+var l2 = l1 + w1;
+var l3 = l1 - l2;
+var l = l2;
+function tickinit() {
+if (ie) {
+if (l1 == 0 && t1 == 0) {
+pos = document.all['tickpos'];
+l1 = getLeft(pos);
+t1 = getTop(pos);
+}
+ticktext.style.posTop = t1;
+}
+else {
+if (l1 == 0 && t1 == 0) {
+pos = document.anchors['tickpos'];
+l1 = pos.x;
+t1 = pos.y;
+}
+document.ticktext.pageY = t1;
+}
+l2 = l1 + w1;
+l3 = l1 - l2;
+l = l2;
+setInterval('tick()', 10);
+}
+function getLeft(ll) {
+if (ll.offsetParent)
+return (ll.offsetLeft + getLeft(ll.offsetParent));
+else 
+return (ll.offsetLeft);
+}
+function getTop(ll) {
+if (ll.offsetParent)
+return (ll.offsetTop + getTop(ll.offsetParent));
+else
+return (ll.offsetTop);
+}
+function tick() {
+l = l - 0.5;
+if (l < l3) l = l2;
+cl = l1 - l;
+cr = l2 - l;
+if (ie) {
+ticktext.style.posLeft = l;
+ticktext.style.posTop = t1;
+ticktext.style.clip = "rect(auto "+cr+"px auto "+cl+"px)";
+if (first) ticktext.style.visibility = "visible";
+}
+else {
+document.ticktext.pageX = l;
+document.ticktext.clip.left = cl;
+document.ticktext.clip.right = cr;
+if (first) document.ticktext.visibility = "show";
+}
+first = false;
+}
+//  End -->
+</script>
+
+<style>
+body,td {font: 12px Arial; color:000000;}
+</style>
+</head>
+
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 link="#216681" text="#000000" vlink="#406B7C" alink="#0D759E" OnLoad="tickinit()" bgcolor="#FFFFFF">
+<img src="/images/tr.gif" width="1" height="2" alt="" border="0"><br>
+<map name="bar"><area alt="Showpanorama" coords="19,1,69,16" href="/">
+<area alt="Burelom: a Showpanorama's textbook" coords="69,0,129,19" href="/burelom/">
+<area alt="Wankman, coming soon" coords="131,2,197,19" href="/wankman/">
+<area alt="The Headmaster Ritual" coords="199,2,354,18" href="/hr/">
+<area alt="Kinky, edited by D.Demyanov" coords="356,1,395,23" href="/kinky/">
+<area alt="The Gigantic Ice Cream!" coords="396,2,420,17" href="/misc/gic/">
+<area alt="Fan Club" coords="420,3,478,19" href="/fc/">
+<area alt="Help, FAQ" coords="480,3,513,15" href="/misc/help.html">
+<area alt="MeatYou, online" coords="515,1,577,16" href="/misc/meat/">
+</map>
+<img src="/images/bar.gif" width="700" height="17" alt="" border="0" usemap="#bar">
+
+<br>
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr>
+<td valign=bottom align=left width="100%" bgcolor="D4ECEC"><a href="/kinky/reviews/"><img src="/images/reviews.gif" width="340" height="44" alt="" border="0"></a></td>
+<td valign=top align=left width=424 bgcolor="D4ECEC"><a href="/"><img src="/images/b9.gif" width="424" height="179" alt="" border="0"></a></td>
+</tr>
+</table>
+<table cellpadding=0 cellspacing=0 width="100%" border=0>
+<tr>
+<td width=12 valign=top align=left><img src="/images/tr.gif" width="12" height="1" alt="" border="0"></td>
+<td width=278 valign=top align=left><img src="/images/tr.gif" width="278" height="1" alt="" border="0"><br><script language="JavaScript">
+<!--
+// enter full or relative URL to your search page
+var search_htm_url = "/kinky/search/";
+
+function searchPage() {
+ if ((document.searchpage.keyword.value.length == 0)
+ || (document.searchpage.keyword.value == " ")) {
+  alert("First you must enter a keyword to search for.");
+ } else {
+  sel = document.searchpage.and_or.selectedIndex;
+  location.href = search_htm_url + "?"
+   + escape(document.searchpage.keyword.value)
+   + (sel==0?"&and":(sel==2?"&exact":"&or"));
+ }
+ return false;
+}
+
+document.write('<form name="searchpage" onSubmit="return searchPage()">'

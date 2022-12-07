@@ -1,0 +1,88 @@
+ body, tr, tbody, td, p {
+ 	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+ }
+ .ver10 {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ }
+ 
+  .ver10 a {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+
+ }
+ 
+ .recent {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ color:#CC0000;
+ }
+ 
+ .news  {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ color:#5589C3;
+ }
+ 
+ .newstext a:link, .newstext a:visited, .newstext a:hover, .newstext a:active {
+ color:#5589C3;
+ }
+ 
+ .navigation {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ margin-bottom : 2px;
+ margin-left : 6px;
+ margin-right : 6px;
+ margin-top : 2px;
+ color:#000000;
+ }
+ 
+ .wnavigation {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ margin-bottom : 2px;
+ margin-left : 6px;
+ margin-right : 6px;
+ margin-top : 2px;
+ color:#FFFFFF;
+ }
+ 
+ .bigg {
+ font-family: Arial,  Sans-Serif;
+ font-size:28px;
+ color:#FFFFFF;
+ }
+ .navigation a {
+ color:#000000; 
+ text-decoration:none;
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+ font-size:10px;
+ }
+ 
+ .wnavigation a {
+ color:#FFFFFF; 
+ text-decoration:none;
+ }
+ 
+ .incell {
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+ font-size:10px;
+ }
+ 
+ .titlespan {
+   width:100%; 
+   margin-left:16px; 
+   margin-right:0px; 
+   background-color:#CCCCCC; 
+   padding-left:6px;
+   padding-right:6px; 
+   padding-top:6px; 
+   padding-bottom:6px; 
+   font-family: "Times New Roman", Times, serif; 
+   font-size:17pt;
+    }
+	tt {
+	font-size:10pt;
+	}

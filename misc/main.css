@@ -1,0 +1,30 @@
+body, td, p {font-size: 8pt;  font-family:  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; font-color:#000000;}
+	 .bodytext {text-align:justify;}
+	 .ep {font-size: 8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000; text-align:right;}
+	.mr:link, .mr:visited, .mr:active {font-weight: bold; font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+	.small, .small:link, .small:visited, .small:active, .small:hover {font-size: 8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+	.title {font-weight: bold; font-size:  12pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+	.wh, .wh:link, .wh:hover, .wh:active, .wh:visited {font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#FFFFFF;}
+	.bl, .bl:link, .bl:hover, .bl:active, .bl:visited { font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+
+.wh1, .wh1:link, .wh1:hover, .wh1:active, .wh1:visited {font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#FFFFFF;}
+.blX, .blX:link, .blX:visited {font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000; text-decoration:none; font-weight: bold;}
+.blX:hover, .blX:active {font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000; text-decoration:underline; font-weight: bold;}
+	.annotation {font-size: 9pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#555555;}
+
+a, a:link, a:visited, a:active, a:hover {font-size: 8pt;  font-family:  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; font-color:#000000; text-decoration:underline}
+
+.nav:link, .nav:visited, .nav:active { font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;text-decoration:none;}
+.nav:hover { font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#990066; text-decoration:underline;}
+
+	.or, .or:link, .or:visited, .or:active {font-weight: bold; font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#FF6633;}
+	.or:hover {font-weight: bold; font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+
+	.fullfrontalT {font-weight: bold; font-size:  20pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#333366;}
+	.fullfrontalA, .fullfrontalA:link,  .fullfrontalA:hover, .fullfrontalA:active, .fullfrontalA:visited {font-weight: bold; font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#333366;}
+.fullfrontalPZ {font-weight: bold; font-size:  12pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#333366;}
+.fullfrontalBody {font-size:  10pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000000;}
+.fullfrontal:link, .fullfrontal:visited, .fullfrontal:active { font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#333366;text-decoration:underline;}
+.fullfrontal:hover { font-size:  8pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#000033;text-decoration:underline;}
+
+	.burelomT {font-weight: bold; font-size:  20pt;  font-family: ArialCyr, Arial, Helvetica, Geneva, sans-serif; color:#efefef;}

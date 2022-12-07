@@ -1,0 +1,33 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>The Showpanorama Seasons</title>
+	<style>
+	.monde {padding-top:1em; font:77% Arial; line-height:1.2em; color:#000000; padding-bottom:1em;}
+	.monde a {color:#000000; text-decoration:none;}
+	.monde a:hover {color:#000000; text-decoration:none; border-bottom: 2px solid #FF6600; padding-bottom:1em;}
+	.curr {border-bottom: 2px solid #000000; font-size:200%;}
+	.izobrazhenie {margin-top:1em; text-align:left:}
+	.annotation {font: 75% Arial; color:#333333; line-height:1.5em; text-align:left;}
+	.annotation a {color:#0033CC;}
+	.disab {font: 75% Arial; color:#000000; padding:1em 1em; background-color:#EFEFEF; line-height:1.5em; text-align:left;}
+	</style>
+</head>
+
+<body bgcolor=#FFFFFF>
+
+
+<div style="margin-left:50px;">
+<a href="/seasons/"><img src="/images/seasons.gif" width="319" height="53" alt="" border="0"></a><br>
+<table style="background-color:#FFFFFF; height:0px; width:75%; border-top:4px solid #0033CC; margin-bottom:2em; margin-top:0.5em;">
+<tr>
+<td width="0%"><div class="monde">1<br><a href="/seasons/1067869746.html?version=textonly">&#1103;&#1085;&#1074;&#1072;&#1088;&#1100;</a></div></td>
+<td width="50%">&nbsp;</td>
+<td width="0%" class="curr"><div class="monde">2<br>&#1092;&#1077;&#1074;&#1088;&#1072;&#1083;&#1100;</div></td>
+<td width="50%">&nbsp;</td>
+<td width="0%"><div class="monde">3<br><a href="/seasons/1067869765.html?version=textonly">&#1084;&#1072;&#1088;&#1090;</a></div></td>
+</tr>
+</table>
+<div style="width:75%; text-align:center;">
